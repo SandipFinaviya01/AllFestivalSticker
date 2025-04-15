@@ -6,7 +6,7 @@
         "identifier": "31_december_pack",
         "name": "31st December Pack",
         "publisher": "Festival Sticker",
-        "tray_image_file": "tray_31_december.webp",
+        "tray_image_file": "31_december_tray.png",
         "image_data_version":"1",
         "avoid_cache":false,
         "publisher_email":"",
